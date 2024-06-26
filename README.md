@@ -1,4 +1,4 @@
-# news_app_ui_setup
+# news_app
 
 The app aggregates news from various sources, employs real-time updates, personalized preferences, and intuitive navigation.
 
