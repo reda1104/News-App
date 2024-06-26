@@ -1,6 +1,8 @@
 # news_app_ui_setup
 
-A new Flutter project.
+The app aggregates news from various sources, employs real-time updates, personalized preferences, and intuitive navigation.
+
+![screen](https://github.com/reda1104/Chat-App/assets/69952638/cd57c490-1758-4672-ac35-1fd8cc1cacad)
 
 ## Getting Started
 
